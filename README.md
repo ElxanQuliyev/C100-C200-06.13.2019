@@ -13,4 +13,5 @@
     ```
   - İstənilən bir arrayin elementlərini əks ardıcıllıqla ekrana çıxaran funksiya yazın.
   - if & else statementlərindən istifadə edərək, 3-4 sualdan ibarət mini sual-cavab oyunu yazın (console application).
+  
   *İstədiyinzdən başlaya bilərsiz.Uğurlar hər birinizə.*
