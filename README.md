@@ -1,8 +1,7 @@
 # C100-C200-06.13.2019
 
-1. sparkle-psd qovluğunda psd formatındakı template-i yığmaq (ölçülər, rənglər və logo assets qovluğunda var)
-2. Javascript if, else if, else, switch-case statements, functions, arrays, array methods, for loop mövzularını yaxşıca oxumaq.
-3. Aşağıdakı alqoritmləri heç yerdən və heç kimdən köçürməmək şərtilə yazmaq (yaza bilməyən yazmasın, dərsdə izah edək):
+1. Javascript if, else if, else, switch-case statements, functions, arrays, array methods, for loop mövzularını yaxşıca oxumaq.
+2. Aşağıdakı alqoritmləri heç yerdən və heç kimdən köçürməmək şərtilə yazmaq (yaza bilməyən yazmasın, dərsdə izah edək):
   - Üç istənilən ədədin hasilini hesablayan funksiya yazın.
   - Userdən adını soruşun, əgər heç nə daxil etməzsə, üstünə qışqırın.
   - Userdən yaşını soruşun, əgər rəqəm tipində dəyişən əlavə etməzsə, ağır söyüş söyün.
